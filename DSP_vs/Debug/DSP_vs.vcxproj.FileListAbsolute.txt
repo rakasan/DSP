@@ -1,0 +1,2 @@
+D:\Repositories\Projects\DSP\DSP_vs\Debug\DSP_vs.exe
+D:\Repositories\Projects\DSP\DSP_vs\Debug\DSP_vs.pdb
